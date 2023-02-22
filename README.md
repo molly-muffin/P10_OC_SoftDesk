@@ -1,4 +1,4 @@
-![Alt text](https://github.com/molly-muffin/https://github.com/molly-muffin/P10_OC_SoftDesk/blob/main/images/logo.png)
+![Alt text](https://github.com/molly-muffin/P10_OC_SoftDesk/blob/main/images/logo.PNG)
 
 # API sécurisée RESTful pour gérer les problèmes techniques
 
